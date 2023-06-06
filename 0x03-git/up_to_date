@@ -1,1 +1,2 @@
-echo up_to_date > 0x03-git
+touch up_to_date
+
